@@ -1,0 +1,35 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  width: 100px;
+  bottom:0px;
+  top: 55px;
+  left: 0px;
+  background-color: white;
+}
+p {
+  font-family: Roboto;
+}
+.home-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.explore-text {
+  margin-left: 15px;
+}
+.section {
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100px;
+}
+.section:hover {
+  background-color: rgb(244, 243, 243);
+}
+.section p {
+  font-size: 12px;
+}

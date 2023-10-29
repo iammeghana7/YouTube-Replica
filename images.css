@@ -1,0 +1,74 @@
+.thumbnail-1{
+  /* width: 300px; */
+  width: 100%;
+}
+
+.search-btn {
+  width: 66px;
+  height: 40px;
+  background-color: #F7F7F7;
+  border: 1px solid #cccccc;
+  margin-left: -1px;
+}
+.search-img {
+  height: 25px;
+}
+.voice-search-btn {
+  width: 40px;
+  height: 40px;
+  vertical-align: top;
+  border: none;
+  margin-left: 10px;
+  background-color: #F8F8F8;
+  border-radius: 50%;
+}
+.voice-search-img {
+  height: 22px;
+}
+
+.youtube-icon {              
+  width: 140px;
+}
+.icon1 {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.upload-img {
+  width: 35px;
+  height: 35px;
+  vertical-align: top;
+  cursor: pointer;
+}
+.youtube-apps-img {
+  width: 35px;
+  height: 35px;
+  vertical-align: top;
+  cursor: pointer;
+}
+.notifications-img {
+  width: 35px;
+  height: 35px;
+  vertical-align: top;
+  cursor: pointer;
+}
+.channel-img {
+  width: 32px;
+  height: 32px;
+  vertical-align: top;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.hamburger-img {
+  width: 32px;
+  height: 32px;
+  margin-left: 35px;
+  margin-right: 40px;
+  border-bottom: 1px solid white;
+}
+.home-img, .explore-img, .subscriptions-img, .originals-img, .music-img, .library-img{
+  width: 32px;
+  height: 32px;
+  display: flex;
+}
+
