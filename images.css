@@ -1,6 +1,7 @@
 .thumbnail-1{
   /* width: 300px; */
   width: 100%;
+  border: none;
 }
 
 .search-btn {
@@ -69,6 +70,7 @@
 .home-img, .explore-img, .subscriptions-img, .originals-img, .music-img, .library-img{
   width: 32px;
   height: 32px;
+  cursor: pointer;
   display: flex;
 }
 
